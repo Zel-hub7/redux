@@ -1,6 +1,8 @@
+import Counter from "./Counter.js";
+
 const App = () => {
   return(
-    <h1>Hello App</h1>
+    <Counter />
   )
 
 }
