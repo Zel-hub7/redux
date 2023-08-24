@@ -1,8 +1,6 @@
-import Counter from "./Counter.js";
-
 const App = () => {
   return(
-    <Counter />
+    <h2>Redux Toolkit</h2>
   )
 
 }
